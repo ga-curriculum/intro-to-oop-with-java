@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+At the conclusion of this lesson, students will be equipped to define the four principles of object-oriented programming and elucidate the role of classes and objects within object-oriented programming.
 
 ## Prerequisites
 
@@ -12,39 +12,19 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                        | -- | -- |                                         |
+| Lesson | Time | Learning Objectives |
+| ------ |:----------:|:------ |
+| [The Four Principles of OOP](./the-four-principles-of-oop/README.md) | 20 min | Define the four principles of object-oriented programming.  |
+| [Classes and Modifiers](./classes-and-modifiers/README.md) | 15 min | Explain how classes and objects factor into object-oriented programming.  |
+| **Total content**  | 35 min |  |
 
-## Level Up content
+## Additional Resources
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
-
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
+- [Oracle Docs: Access Control](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+- [OOP for Beginners](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming)
+- [Four Principles of OOP](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
 
 ## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
