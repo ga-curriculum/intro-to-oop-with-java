@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/classes-and-modifiers.png)
 
 **Learning objective:** By the end of this lesson, students will be able to explain how classes and objects factor into object-oriented programming.
 

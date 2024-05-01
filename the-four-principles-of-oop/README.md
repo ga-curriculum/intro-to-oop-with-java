@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/four-principles-of-oop.png)
 
 **Learning objective:** By the end of this lesson, students will be able to cefine the four principles of object-oriented programming.
 

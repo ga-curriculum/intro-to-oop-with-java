@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/java-intro-to-oop-header.png)
 
 ## About
 
@@ -6,9 +6,7 @@ At the conclusion of this lesson, students will be equipped to define the four p
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- None.
 
 ## Content
 
