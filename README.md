@@ -12,9 +12,9 @@ At the conclusion of this lesson, students will be equipped to define the four p
 
 | Lesson | Time | Learning Objectives |
 | ------ |:----------:|:------ |
-| [The Four Principles of OOP](./the-four-principles-of-oop/README.md) | 20 min | Define the four principles of object-oriented programming.  |
+| [The Four Principles of OOP](./the-four-principles-of-oop/README.md) | 15 min | Define the four principles of object-oriented programming.  |
 | [Classes and Modifiers](./classes-and-modifiers/README.md) | 15 min | Explain how classes and objects factor into object-oriented programming.  |
-| **Total content**  | 35 min |  |
+| **Total content**  | 30 min |  |
 
 ## Additional Resources
 
