@@ -1,31 +1,45 @@
-# ![[tktk Module Name]](./assets/java-intro-to-oop-header.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to OOP with Java</span>
+</h1>
 
 ## About
 
-At the conclusion of this lesson, students will be equipped to define the four principles of object-oriented programming and elucidate the role of classes and objects within object-oriented programming.
-
-## Prerequisites
-
-- None.
+tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
-| Lesson | Time | Learning Objectives |
-| ------ |:----------:|:------ |
-| [The Four Principles of OOP](./the-four-principles-of-oop/README.md) | 15 min | Define the four principles of object-oriented programming.  |
-| [Classes and Modifiers](./classes-and-modifiers/README.md) | 15 min | Explain how classes and objects factor into object-oriented programming.  |
+| Lesson | Est. Delivery Time | Skills |
+| ------ |:------------------:| ------ |
+| [Setup](./setup/README.md) | 15 min | Set up the development environment. |
+| [The Four Principles of OOP](./the-four-principles-of-oop/README.md) | 15 min | Define the four principles of object-oriented programming. |
+| [Classes and Modifiers](./classes-and-modifiers/README.md) | 15 min | Explain how classes and objects factor into object-oriented programming. |
 | **Total content**  | 30 min |  |
 
-## Additional Resources
+## References
 
-- [Oracle Docs: Access Control](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-- [OOP for Beginners](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming)
-- [Four Principles of OOP](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
+📖 [Reference Materials](./references/README.md)
 
-## Internal resources
+## Internal
+
+### Prerequisites
+
+- None
+
+### Course landing pages
+
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-oop-with-java/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-oop-with-java/canvas-landing-pages/jsc.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-oop-with-java/canvas-landing-pages/fallback.html)
+
+### Resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**

@@ -1,11 +1,14 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/classes-and-modifiers.png)
+<h1>
+  <span class="headline">Intro to OOP with Java</span>
+  <span class="subhead">Classes and Modifiers</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to explain how classes and objects factor into object-oriented programming.
 
-## Classes and Modifiers (10 min)
+## Classes and modifiers
 
 Before object-oriented programming came along, programming languages like C sported a feature called `struct` — a way of defining a common format to allocate blocks of consistent data types.
- 
+
 For example:
 
 ```java
@@ -22,7 +25,7 @@ Now that we have data as a `struct`, why not add **functionality** to that struc
 
 > In our example of deriving a person's age given today's date, we might create a method called `getCurrentAge()` or something similar.
 
-### Defining a Class
+### Defining a class
 
 We've already seen several examples of classes. They all conform to this common pattern:
 
@@ -34,9 +37,9 @@ public class MyClass {
 
 In this example, `public` refers to the class visibility. Top-level classes can only be `public` or default (unspecified). "Top level" means they're not inner classes, which we'll define later in this lesson.
 
-`public` classes can be referenced by any other class, and this is the most common class visibility. A file may contain **no more than one** `public` class. The rule is that every top-level `public` Java class must reside in a file that exactly matches the file name (minus the `.java` file type). 
+`public` classes can be referenced by any other class, and this is the most common class visibility. A file may contain **no more than one** `public` class. The rule is that every top-level `public` Java class must reside in a file that exactly matches the file name (minus the `.java` file type).
 
-#### Default Classes
+#### Default classes
 
 Default classes don't specify an access modifier. For example:
 
@@ -48,11 +51,11 @@ They can be accessed in the current file, as well as by other classes in the sam
 
 Package and public are the only access levels available for top-level classes. But as we'll see, inner classes can also be `protected` or `private`.
 
-#### Access Levels
+#### Access levels
 
 The access levels — going from most to least restrictive — are:
 
-```
+```plaintext
 private --> package --> protected --> public
 ```
 
@@ -60,15 +63,19 @@ private --> package --> protected --> public
 
 This nifty table from [Oracle's docs on access control](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) shows what's unique about each level:
 
-![](https://res.cloudinary.com/briezh/image/upload/v1560810976/Screen_Shot_2019-06-17_at_3.35.38_PM_fq9ffm.png)
-
-----
+| Modifier    | Class | Package | Subclass | World |
+|-------------|-------|---------|----------|-------|
+| `public`    | Y     | Y       | Y        | Y     |
+| `protected` | Y     | Y       | Y        | N     |
+| no modifier | Y     | Y       | N        | N     |
+| `private`   | Y     | N       | N        | N     |
 
 ## Conclusion (5 min)
 
 Object-oriented programming is the practice of using classes and objects to make code modular (encapsulated) and often reusable. A class can be thought of as a blueprint for a building or a pattern for a dress. There's one blueprint, but you can build many buildings with it. There's one dress pattern, but you can manufacture many dresses with it.
 
-> **Knowledge Check**: Can you define each of the four OOP pillars?
+> ❓ Can you define each of the four OOP pillars?
+>
 > - Abstraction
 > - Polymorphism
 > - Inheritance
