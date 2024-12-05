@@ -5,7 +5,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In the realm of computer programming, few paradigms have been as transformative and enduring as Object-Oriented Programming (OOP). Today, OOP is more than a programming paradigm; it’s a way of thinking. Its principles are deeply embedded in software engineering, from game development to enterprise systems. Even though there are a lot of OOP languages out there, Java simplified OOP and made it platform-independent, allowing programs to “write once, run anywhere." In this module, let's learn the **Object-Oriented** way of thinking.
 
 ## Content
 

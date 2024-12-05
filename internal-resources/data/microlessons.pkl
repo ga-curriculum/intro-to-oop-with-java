@@ -9,16 +9,16 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-theFourPrinciplesOfOop = new Template.Microlesson {
-  friendlyName = "The Four Principles of OOP"
-  dirName = "the-four-principles-of-oop"
+objectOrientedProgrammingParadigm = new Template.Microlesson {
+  friendlyName = "Object-Oriented Programming Paradigm"
+  dirName = "object-oriented-programming-paradigm"
   type = "Content"
   videoUrl = ""
 }
 
-classesAndModifiers = new Template.Microlesson {
-  friendlyName = "Classes and Modifiers"
-  dirName = "classes-and-modifiers"
+oopWithJava = new Template.Microlesson {
+  friendlyName = "OOP with Java"
+  dirName = "oop-with-java"
   type = "Content"
   videoUrl = ""
 }
