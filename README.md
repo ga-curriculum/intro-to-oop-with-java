@@ -5,16 +5,20 @@
 
 ## About
 
-In the realm of computer programming, few paradigms have been as transformative and enduring as Object-Oriented Programming (OOP). Today, OOP is more than a programming paradigm; it’s a way of thinking. Its principles are deeply embedded in software engineering, from game development to enterprise systems. Even though there are a lot of OOP languages out there, Java simplified OOP and made it platform-independent, allowing programs to “write once, run anywhere." In this module, let's learn the **Object-Oriented** way of thinking.
+In the realm of programming, few paradigms have been as transformative and enduring as object-oriented programming (OOP).
+
+Today, OOP is more than a programming paradigm. Its principles are deeply embedded in software engineering, from game development to enterprise systems. Even though there are many OOP languages, Java simplified OOP concepts and made them accessible to a wide range of developers.
+
+In this module, you'll learn the **object-oriented** way of thinking in Java.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md) | 15 min | Set up the development environment. |
-| [The Four Principles of OOP](./the-four-principles-of-oop/README.md) | 15 min | Define the four principles of object-oriented programming. |
-| [Classes and Modifiers](./classes-and-modifiers/README.md) | 15 min | Explain how classes and objects factor into object-oriented programming. |
-| **Total content**  | 30 min |  |
+| [Setup](./setup/README.md)                                                               |  5 min | Set up the development environment.                                      |
+| [Object-Oriented Programming Paradigm](./object-oriented-programming-paradigm/README.md) | 15 min | Define the four principles of object-oriented programming.               |
+| [OOP with Java](./oop-with-java/README.md)                                               | 10 min | Explain how classes and objects factor into object-oriented programming. |
+| **Total content**                                                                        | 30 min |                                                                          |
 
 ## References
 
