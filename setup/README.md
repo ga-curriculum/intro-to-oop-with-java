@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Java Arrays and ArrayList</span>
+  <span class="headline">Intro to OOP with Java</span>
   <span class="subhead">Setup</span>
 </h1>
 
@@ -9,7 +9,7 @@ Launch the IntelliJ IDEA application.
 
 Select the **New Project** option.
 
-Name the project `java-arrays-and-arraylist`.
+Name the project `intro-to-oop-with-java`.
 
 Create the project in the <code class="filepath">~/code/ga/lectures</code> directory.
 
@@ -21,9 +21,9 @@ Ensure the JDK used is **temurin-17**. This should be the default setting when s
 
 Ensure that the **Add sample code** option is not checked.
 
-After confirming that the **New Project** window looks similar to the screenshot below, select the **Create** button. The name of the project should be `java-arrays-and-arraylist`, not `untitled`.
+After confirming that the **New Project** window looks similar to the screenshot below, select the **Create** button. The name of the project should be `intro-to-oop-with-java`, not `untitled`.
 
-![A new project being created in the ~/code/ga/lectures directory, the JDK is temurin-17, and the add sample code option is has been unchecked. The name of the project should be java-arrays-and-arraylist.](./assets/new-project-complete.png)
+![A new project being created in the ~/code/ga/lectures directory, the JDK is temurin-17, and the add sample code option is has been unchecked. The name of the project should be intro-to-oop-with-java.](./assets/new-project-complete.png)
 
 Right-click on the <code class="filepath">src/main/java</code> directory and select **New** > **Java Class**, as shown in the screenshot below:
 
