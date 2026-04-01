@@ -32,9 +32,9 @@ In this module, you'll learn the **object-oriented** way of thinking in Java.
 
 ### Course landing pages
 
-- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-oop-with-java/canvas-landing-pages/jcd.html)
-- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-oop-with-java/canvas-landing-pages/jsc.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-oop-with-java/canvas-landing-pages/fallback.html)
+- [JCD - Java Career Development Program](https://ga-curriculum.github.io/intro-to-oop-with-java/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://ga-curriculum.github.io/intro-to-oop-with-java/canvas-landing-pages/jsc.html)
+- [Fallback](https://ga-curriculum.github.io/intro-to-oop-with-java/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -46,4 +46,4 @@ In this module, you'll learn the **object-oriented** way of thinking in Java.
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
